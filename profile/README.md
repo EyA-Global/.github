@@ -7,8 +7,8 @@
 
 2) Example source code from our EyA Code Academy and contributors to the open source projects.
 
-For more information on the Eya platform, please visit our website at https://eya.global
-For case studies, please visit https://eya.global/case-studies
+For more information on the Eya platform, please visit our website at https://eya.global </br>
+For case studies, please visit https://eya.global/case-studies </br>
 For insights, please visit https://eya.global/insights
 
 
