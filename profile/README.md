@@ -3,7 +3,9 @@
 
 ## EyA Open Source Projects
 
-The set of repositories exposed to public are for the community development of connectors and the open object mapper to integrate into the EyA.Global platform.
+1) A set of repositories exposed to public are for the community development of connectors and the open object mapper to integrate into the EyA.Global platform.
+
+2) Example source code from our EyA Code Academy and contributors to the open source projects.
 
 For more information on the Eya platform, please visit our website at https://eya.global
 
