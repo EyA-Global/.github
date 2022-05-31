@@ -6,6 +6,8 @@
 
 2) Example source code from our EyA Code Academy and contributors to the open source projects.
 
+Please review our community code of conduct here - [CODE_OF_CONDUCT.md](https://github.com/EyA-Global/.github/blob/main/CODE_OF_CONDUCT.md)
+
 For more information on the Eya platform, please visit our website at https://eya.global </br>
 For case studies, please visit https://eya.global/case-studies </br>
 For insights, please visit https://eya.global/insights
