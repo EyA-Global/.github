@@ -10,7 +10,7 @@ Please review our community code of conduct here - [CODE_OF_CONDUCT.md](https://
 
 For more information on the Eya platform, please visit our website at https://eya.global </br>
 For case studies, please visit https://eya.global/case-studies </br>
-For insights, please visit https://eya.global/insights
+For insights, please visit https://eya.global/insights </br>
 For community discussions, please visit https://discuss.eya.global
 
 
